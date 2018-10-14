@@ -9,7 +9,7 @@ Número de vehículos automorizados por clase en el año 2016 en el Ecuador
 19 jurisdicciones opacas investigadas por los paradise papers
 <div><iframe id="datawrapper-chart-OZuWj" src="//datawrapper.dwcdn.net/OZuWj/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["OZuWj"]={},window.datawrapper["OZuWj"].embedDeltas={"100":535,"200":454,"300":427,"400":400,"500":400,"700":373,"800":373,"900":373,"1000":373},window.datawrapper["OZuWj"].iframe=document.getElementById("datawrapper-chart-OZuWj"),window.datawrapper["OZuWj"].iframe.style.height=window.datawrapper["OZuWj"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["OZuWj"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("OZuWj"==b)window.datawrapper["OZuWj"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
 DENSIDAD DE POBLACIÓN 
-<div><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/super.com.ec/spreadsheets/d/e/2PACX-1vT3jqOqMk4hfM0FQnNd4NARmIrFm4hDMwJzoUZROrVd8ZrpXgSQxbM9mmoAB4xoe7ZsJWWJGJ5KkDwk/pubchart?oid=1182040643&amp;format=interactive"></iframe>/div>
+<div><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/super.com.ec/spreadsheets/d/e/2PACX-1vT3jqOqMk4hfM0FQnNd4NARmIrFm4hDMwJzoUZROrVd8ZrpXgSQxbM9mmoAB4xoe7ZsJWWJGJ5KkDwk/pubchart?oid=1182040643&amp;format=interactive"</iframe></div>
 ### Markdown
 
 
